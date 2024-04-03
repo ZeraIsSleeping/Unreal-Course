@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/Task 1 - First level house/FirstPersonShooter/Content/Levels/MyLevel.umap",
+				"C:/Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/Task 1 - First level house/FirstPersonShooter/Content/StarterContent/Architecture/Wall_Window_400x300.uasset",
+				"C:/Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/Task 1 - First level house/FirstPersonShooter/Content/StarterContent/Materials/M_Basic_Wall.uasset",
+				"C:/Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/Task 1 - First level house/FirstPersonShooter/Content/StarterContent/Props/SM_TableRound.uasset",
+				"C:/Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/Task 1 - First level house/FirstPersonShooter/Content/StarterContent/Props/Materials/M_Chair.uasset",
+				"C:/Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/Task 1 - First level house/FirstPersonShooter/Content/StarterContent/Props/Materials/M_TableRound.uasset",
 				"C:/Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/FirstPersonShooter/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
 				"C:/Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/FirstPersonShooter/Content/Levels/MyLevel.umap"
 			]
