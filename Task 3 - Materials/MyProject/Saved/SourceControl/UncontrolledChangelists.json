@@ -1,0 +1,40 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/Task 3 - Materials/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/Task 3 - Materials/MyProject/Content/Materials/MyMaterialInstance.uasset",
+				"C:/Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/Task 3 - Materials/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset",
+				"C:/Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/Task 3 - Materials/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/XB/9VVR39MG0K7W5GQIEFE7SO.uasset",
+				"C:/Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/Task 3 - Materials/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/U7/H8YL2PPHZPBTI74SUD0RNL.uasset",
+				"C:/Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/Task 3 - Materials/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR.uasset",
+				"C:/Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/Task 3 - Materials/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
+				"C:/Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/Task 3 - Materials/MyProject/Content/Materials/MyTextureMaterial.uasset",
+				"C:/Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/Task 3 - Materials/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset",
+				"C:/Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/Task 3 - Materials/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/C0/JEPY3OHXILGS0P4MSGK3Q3.uasset",
+				"C:/Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/Task 3 - Materials/MyProject/Content/Materials/MyChestMaterial.uasset",
+				"C:/Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/Task 3 - Materials/MyProject/Content/Dag_3_Resourcer/Chest/default_material.uasset",
+				"C:/Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/Task 3 - Materials/MyProject/Content/Materials/MyBrickMaterial.uasset",
+				"C:/Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/Task 3 - Materials/MyProject/Content/Materials/MyMaterial.uasset",
+				"C:/Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/Task 3 - Materials/MyProject/Content/Dag_3_Resourcer/Chest/ukqncf3bw_2K_Albedo.uasset",
+				"C:/Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/Task 3 - Materials/MyProject/Content/Dag_3_Resourcer/Chest/ukqncf3bw_2K_Displacement.uasset",
+				"C:/Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/Task 3 - Materials/MyProject/Content/Dag_3_Resourcer/Chest/ukqncf3bw_2K_Normal_LOD0.uasset",
+				"C:/Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/Task 3 - Materials/MyProject/Content/Dag_3_Resourcer/Chest/ukqncf3bw_2K_Roughness.uasset",
+				"C:/Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/Task 3 - Materials/MyProject/Content/Dag_3_Resourcer/Chest/ukqncf3bw_LOD0.uasset",
+				"C:/Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/Task 3 - Materials/MyProject/Content/Dag_3_Resourcer/Brick/vmdkahflw_2K_Albedo.uasset",
+				"C:/Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/Task 3 - Materials/MyProject/Content/Dag_3_Resourcer/Brick/vmdkahflw_2K_AO.uasset",
+				"C:/Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/Task 3 - Materials/MyProject/Content/Dag_3_Resourcer/Brick/vmdkahflw_2K_Displacement.uasset",
+				"C:/Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/Task 3 - Materials/MyProject/Content/Dag_3_Resourcer/Brick/vmdkahflw_2K_Normal.uasset",
+				"C:/Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/Task 3 - Materials/MyProject/Content/Dag_3_Resourcer/Brick/vmdkahflw_2K_Roughness.uasset",
+				"C:/Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/Task 3 - Materials/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset",
+				"C:/Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/Task 3 - Materials/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/6B9RJI3FDPCETRKXUXCQ4C.uasset",
+				"C:/Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/Task 3 - Materials/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset",
+				"C:/Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/Task 3 - Materials/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4D/BBOCKSZY1GVHTFRX0PR0O8.uasset",
+				"C:/Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/Task 3 - Materials/MyProject/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+			]
+		}
+	]
+}
