@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/Task 2 - Random spawn position/MyProject/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/Task 2 - Random spawn position/MyProject/Content/ThirdPerson/Blueprints/BP_Spawner.uasset",
+				"C:/Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/Task 2 - Random spawn position/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/FQ/YRIRMDI150DEWWDRMNJFRW.uasset",
+				"C:/Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/Task 2 - Random spawn position/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/ZF/I5Z96RWHDR9L0GVP1K1JP0.uasset",
+				"C:/Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/Task 2 - Random spawn position/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/KZ/7YWABTEWYXMA6OG0KH06K2.uasset",
+				"C:/Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/Task 2 - Random spawn position/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/O3/ZGLMI006F7YS3BTYDLWTTB.uasset",
+				"C:/Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/Task 2 - Random spawn position/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/91/MOWYA62F2N0S2L5AXYOVZP.uasset",
+				"C:/Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/Task 2 - Random spawn position/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/DI/JCB4G5WO2GWQ5KXK6GI2BN.uasset",
+				"C:/Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/Task 2 - Random spawn position/MyProject/Content/ThirdPerson/Blueprints/BP_MyCharacter.uasset",
+				"C:/Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/Task 2 - Random spawn position/MyProject/Content/ThirdPerson/Blueprints/BP_SpawnLocation.uasset",
+				"C:/Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/Task 2 - Random spawn position/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+			]
+		}
+	]
+}
