@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h0/mCQTDM9geP0nNYEP04NElKZ0pZ7d8HsGjhsCd9eVGOkFTqRqFAmKXayO65SWNfmFDJyoGugl9Skrc2nB7/g==",
+  "dgSpecHash": "cMtC6RflmJJY1n3oZV5lY5rkeA5WINTPkNEM2Uj/c32exszILWdGXjiN24DmCbCS3QeAKif011oHbqf4V+9mkg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rytix\\Documents\\GitHub\\Dania Games\\Unreal-Course\\Task 2 - Random spawn position\\MyProject\\Intermediate\\Build\\BuildRulesProjects\\MyProjectModuleRules\\MyProjectModuleRules.csproj",
+  "projectFilePath": "C:\\Users\\rytix\\Documents\\GitHub\\Dania Games\\Unreal-Course\\Task 4 - Reload animation\\MyProject\\Intermediate\\Build\\BuildRulesProjects\\MyProjectModuleRules\\MyProjectModuleRules.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rytix\\.nuget\\packages\\blake3\\0.5.1\\blake3.0.5.1.nupkg.sha512",
     "C:\\Users\\rytix\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",

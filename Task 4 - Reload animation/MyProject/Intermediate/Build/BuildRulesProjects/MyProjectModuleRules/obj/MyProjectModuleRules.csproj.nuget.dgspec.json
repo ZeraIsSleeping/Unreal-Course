@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rytix\\Documents\\GitHub\\Dania Games\\Unreal-Course\\Task 2 - Random spawn position\\MyProject\\Intermediate\\Build\\BuildRulesProjects\\MyProjectModuleRules\\MyProjectModuleRules.csproj": {}
+    "C:\\Users\\rytix\\Documents\\GitHub\\Dania Games\\Unreal-Course\\Task 4 - Reload animation\\MyProject\\Intermediate\\Build\\BuildRulesProjects\\MyProjectModuleRules\\MyProjectModuleRules.csproj": {}
   },
   "projects": {
     "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\MarketplaceRules\\MarketplaceRules.csproj": {
@@ -1151,14 +1151,14 @@
         }
       }
     },
-    "C:\\Users\\rytix\\Documents\\GitHub\\Dania Games\\Unreal-Course\\Task 2 - Random spawn position\\MyProject\\Intermediate\\Build\\BuildRulesProjects\\MyProjectModuleRules\\MyProjectModuleRules.csproj": {
+    "C:\\Users\\rytix\\Documents\\GitHub\\Dania Games\\Unreal-Course\\Task 4 - Reload animation\\MyProject\\Intermediate\\Build\\BuildRulesProjects\\MyProjectModuleRules\\MyProjectModuleRules.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rytix\\Documents\\GitHub\\Dania Games\\Unreal-Course\\Task 2 - Random spawn position\\MyProject\\Intermediate\\Build\\BuildRulesProjects\\MyProjectModuleRules\\MyProjectModuleRules.csproj",
+        "projectUniqueName": "C:\\Users\\rytix\\Documents\\GitHub\\Dania Games\\Unreal-Course\\Task 4 - Reload animation\\MyProject\\Intermediate\\Build\\BuildRulesProjects\\MyProjectModuleRules\\MyProjectModuleRules.csproj",
         "projectName": "MyProjectModuleRules",
-        "projectPath": "C:\\Users\\rytix\\Documents\\GitHub\\Dania Games\\Unreal-Course\\Task 2 - Random spawn position\\MyProject\\Intermediate\\Build\\BuildRulesProjects\\MyProjectModuleRules\\MyProjectModuleRules.csproj",
+        "projectPath": "C:\\Users\\rytix\\Documents\\GitHub\\Dania Games\\Unreal-Course\\Task 4 - Reload animation\\MyProject\\Intermediate\\Build\\BuildRulesProjects\\MyProjectModuleRules\\MyProjectModuleRules.csproj",
         "packagesPath": "C:\\Users\\rytix\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rytix\\Documents\\GitHub\\Dania Games\\Unreal-Course\\Task 2 - Random spawn position\\MyProject\\Intermediate\\Build\\BuildRulesProjects\\MyProjectModuleRules\\obj\\",
+        "outputPath": "C:\\Users\\rytix\\Documents\\GitHub\\Dania Games\\Unreal-Course\\Task 4 - Reload animation\\MyProject\\Intermediate\\Build\\BuildRulesProjects\\MyProjectModuleRules\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
