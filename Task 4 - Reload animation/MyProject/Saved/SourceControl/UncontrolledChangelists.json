@@ -32,12 +32,19 @@
 				"C:/Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/Task 4 - Reload animation/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/Task 4 - Reload animation/MyProject/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
 				"C:/Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/Task 4 - Reload animation/MyProject/Content/ThirdPerson/Animation/ABP_MyThirdPersonCharacter.uasset",
-				"C:/Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/Task 4 - Reload animation/MyProject/Content/ThirdPerson/Animation/BS_N.uasset",
 				"C:/Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/Task 4 - Reload animation/MyProject/Content/ThirdPerson/Animation/BS_No_Weapon.uasset",
 				"C:/Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/Task 4 - Reload animation/MyProject/Content/ThirdPerson/Animation/BS_Weapon.uasset",
 				"C:/Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/Task 4 - Reload animation/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
 				"C:/Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/Task 4 - Reload animation/MyProject/Content/ThirdPerson/Animation/Idle_Rifle_Hip.uasset",
-				"C:/Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/Task 4 - Reload animation/MyProject/Content/ThirdPerson/Animation/Jog_Fwd_Rifle.uasset"
+				"C:/Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/Task 4 - Reload animation/MyProject/Content/ThirdPerson/Animation/Jog_Fwd_Rifle.uasset",
+				"C:/Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/Task 4 - Reload animation/MyProject/Content/ThirdPerson/Blueprints/BP_Weapon_Pickup.uasset",
+				"C:/Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/Task 4 - Reload animation/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/5Q/NTVWGJ8UGB5UYT5UIH4YU9.uasset",
+				"C:/Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/Task 4 - Reload animation/MyProject/Content/Characters/Mannequins/Meshes/SKM_Quinn.uasset",
+				"C:/Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/Task 4 - Reload animation/MyProject/Content/ThirdPerson/Blueprints/BP_Weapon_Handheld.uasset",
+				"C:/Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/Task 4 - Reload animation/MyProject/Content/ThirdPerson/Input/Actions/IA_Shoot.uasset",
+				"C:/Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/Task 4 - Reload animation/MyProject/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/Task 4 - Reload animation/MyProject/Content/ThirdPerson/Blueprints/BP_Projectile.uasset",
+				"C:/Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/Task 4 - Reload animation/MyProject/Content/ThirdPerson/Animation/BS_N.uasset"
 			]
 		}
 	]
