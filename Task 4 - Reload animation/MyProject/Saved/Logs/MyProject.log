@@ -2437,3 +2437,173 @@ Make sure 'BP_MyCharacter_C' has been compiled for  Get health
 [2024.04.08-08.42.01:934][113]LogHttp: Warning: 0000082A8C143C00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
 [2024.04.08-08.42.01:934][113]LogHttp: Warning: 0000082A8C143C00: libcurl info message cache 1 (Closing connection)
 [2024.04.08-08.42.01:934][113]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3EA6C154-44D1-2DC4-3DB8-55B56F9E96ED%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=a49b570247589bcd952468ab06ae809d%7C360f6b142f0642479f69e529fcc9840b%7Cc77df069-037d-4eb0-9c03-86200b4b3f38&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.04.08-10.09.47:683][280]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [5212 Seconds] waiting for h/w. InstanceID=1
+[2024.04.08-10.09.51:754][280]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=9740
+[2024.04.08-10.09.51:765][280]LogAutomationController: Ignoring very large delta of 5214.04 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.08-10.09.53:104][285]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{478b9353-d255-457c-8dd9-0180e37c8af8}, Name=Speakers (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=1149.45
+[2024.04.08-10.09.53:104][285]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.04.08-10.09.53:107][285]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.04.08-10.11.35:357][304]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [97 Seconds] waiting for h/w. InstanceID=1
+[2024.04.08-10.11.36:818][304]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=9740
+[2024.04.08-10.11.36:830][304]LogAutomationController: Ignoring very large delta of 97.61 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.08-10.11.37:479][307]LogHttp: Warning: 0000082A8C14AF00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.04.08-10.11.37:479][307]LogHttp: Warning: 0000082A8C14AF00: libcurl info message cache 0 (Found bundle for host: 0x829e29507b0 [serially])
+[2024.04.08-10.11.37:479][307]LogHttp: Warning: 0000082A8C14AF00: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.04.08-10.11.37:479][307]LogHttp: Warning: 0000082A8C14AF00: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.04.08-10.11.37:479][307]LogHttp: Warning: 0000082A8C14AF00: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2024.04.08-10.11.37:479][307]LogHttp: Warning: 0000082A8C14AF00: libcurl info message cache 4 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2024.04.08-10.11.37:479][307]LogHttp: Warning: 0000082A8C14AF00: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.04.08-10.11.37:479][307]LogHttp: Warning: 0000082A8C14AF00: libcurl info message cache 6 (state.rewindbeforesend = TRUE)
+[2024.04.08-10.11.37:479][307]LogHttp: Warning: 0000082A8C14AF00: libcurl info message cache 7 (Closing connection)
+[2024.04.08-10.11.37:479][307]LogHttp: Warning: 0000082A8C14AF00: libcurl info message cache 8 (Recv failure: Connection was reset)
+[2024.04.08-10.11.37:479][307]LogHttp: Warning: 0000082A8C14AF00: libcurl info message cache 9 (Send failure: Connection was reset)
+[2024.04.08-10.11.37:479][307]LogHttp: Warning: 0000082A8C14AF00: libcurl info message cache 10 (Recv failure: Connection was reset)
+[2024.04.08-10.11.37:480][307]LogHttp: Warning: 0000082A8C14AF00: libcurl info message cache 11 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3EA6C154-44D1-2DC4-3DB8-55B56F9E96ED%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=a49b570247589bcd952468ab06ae809d%7C360f6b142f0642479f69e529fcc9840b%7Cc77df069-037d-4eb0-9c03-86200b4b3f38&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.04.08-10.11.37:480][307]LogHttp: Warning: 0000082A8C14AF00: libcurl info message cache 12 (  Trying 3.209.201.193:443...)
+[2024.04.08-10.11.37:480][307]LogHttp: Warning: 0000082A8C14AF00: libcurl info message cache 13 (Connected to datarouter.ol.epicgames.com (3.209.201.193) port 443)
+[2024.04.08-10.11.37:480][307]LogHttp: Warning: 0000082A8C14AF00: libcurl info message cache 14 (ALPN: curl offers http/1.1)
+[2024.04.08-10.11.37:480][307]LogHttp: Warning: 0000082A8C14AF00: libcurl info message cache 15 (SSL reusing session ID)
+[2024.04.08-10.11.37:480][307]LogHttp: Warning: 0000082A8C14AF00: libcurl info message cache 16 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.04.08-10.11.37:480][307]LogHttp: Warning: 0000082A8C14AF00: libcurl info message cache 17 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.04.08-10.11.37:480][307]LogHttp: Warning: 0000082A8C14AF00: libcurl info message cache 18 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.04.08-10.11.37:480][307]LogHttp: Warning: 0000082A8C14AF00: libcurl info message cache 19 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.04.08-10.11.37:480][307]LogHttp: Warning: 0000082A8C14AF00: libcurl info message cache 20 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.04.08-10.11.37:480][307]LogHttp: Warning: 0000082A8C14AF00: libcurl info message cache 21 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.04.08-10.11.37:480][307]LogHttp: Warning: 0000082A8C14AF00: libcurl info message cache 22 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.04.08-10.11.37:480][307]LogHttp: Warning: 0000082A8C14AF00: libcurl info message cache 23 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.04.08-10.11.37:480][307]LogHttp: Warning: 0000082A8C14AF00: libcurl info message cache 24 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.04.08-10.11.37:480][307]LogHttp: Warning: 0000082A8C14AF00: libcurl info message cache 25 (old SSL session ID is stale, removing)
+[2024.04.08-10.11.37:480][307]LogHttp: Warning: 0000082A8C14AF00: libcurl info message cache 26 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.04.08-10.11.37:480][307]LogHttp: Warning: 0000082A8C14AF00: libcurl info message cache 27 (ALPN: server accepted http/1.1)
+[2024.04.08-10.11.37:480][307]LogHttp: Warning: 0000082A8C14AF00: libcurl info message cache 28 (Server certificate:)
+[2024.04.08-10.11.37:480][307]LogHttp: Warning: 0000082A8C14AF00: libcurl info message cache 29 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.04.08-10.11.37:480][307]LogHttp: Warning: 0000082A8C14AF00: libcurl info message cache 30 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.04.08-10.11.37:480][307]LogHttp: Warning: 0000082A8C14AF00: libcurl info message cache 31 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.04.08-10.11.37:480][307]LogHttp: Warning: 0000082A8C14AF00: libcurl info message cache 32 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.04.08-10.11.37:480][307]LogHttp: Warning: 0000082A8C14AF00: libcurl info message cache 33 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.04.08-10.11.37:480][307]LogHttp: Warning: 0000082A8C14AF00: libcurl info message cache 34 ( SSL certificate verify ok.)
+[2024.04.08-10.11.37:480][307]LogHttp: Warning: 0000082A8C14AF00: libcurl info message cache 35 (using HTTP/1.1)
+[2024.04.08-10.11.37:480][307]LogHttp: Warning: 0000082A8C14AF00: libcurl info message cache 36 (necessary data rewind wasn't possible)
+[2024.04.08-10.11.37:480][307]LogHttp: Warning: 0000082A8C14AF00: libcurl info message cache 37 (Closing connection)
+[2024.04.08-10.11.37:480][307]LogHttp: Warning: 0000082A8C14AF00: libcurl info message cache 38 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.04.08-10.11.37:481][307]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3EA6C154-44D1-2DC4-3DB8-55B56F9E96ED%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=a49b570247589bcd952468ab06ae809d%7C360f6b142f0642479f69e529fcc9840b%7Cc77df069-037d-4eb0-9c03-86200b4b3f38&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.04.08-10.11.38:139][308]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{478b9353-d255-457c-8dd9-0180e37c8af8}, Name=Speakers (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=1065.05
+[2024.04.08-10.11.38:139][308]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.04.08-10.11.38:141][308]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.04.08-10.15.22:227][368]LogAutomationController: Ignoring very large delta of 211.52 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.08-10.15.42:745][617]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.08-10.15.42:764][617]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.08-10.15.42:764][617]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.04.08-10.15.42:769][617]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 5 ms (total: 34 ms)
+[2024.04.08-10.15.42:770][617]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.08-10.15.42:770][617]PIE: New page: PIE session: ThirdPersonMap (8 Apr 2024, 14.15.42)
+[2024.04.08-10.15.42:770][617]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.08-10.15.42:788][617]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018163s)
+[2024.04.08-10.15.42:788][617]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.018252s)
+[2024.04.08-10.15.42:829][617]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2024.04.08-10.15.42:831][617]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.08-10.15.42:832][617]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.08-10.15.42:832][617]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.04.08-10.15.42:834][617]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.08-10.15.42:834][617]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.08-10.15.42:834][617]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.08-10.15.42:834][617]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.08-10.15.42:836][617]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.04.08-10.15.42:837][617]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 2.70 sec)
+[2024.04.08-10.15.42:837][617]LogPlayLevel: PIE: World Init took: (0.005536s)
+[2024.04.08-10.15.42:837][617]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.04.08-10.15.42:837][617]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.08-10.15.42:837][617]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.08-10.15.42:837][617]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.08-10.15.42:837][617]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.08-10.15.42:837][617]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.08-10.15.42:837][617]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.08-10.15.42:837][617]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.08-10.15.42:837][617]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.08-10.15.42:838][617]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.08-10.15.42:838][617]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.08-10.15.42:838][617]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.08-10.15.42:842][617]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.08-10.15.43:178][617]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.08-10.15.43:179][617]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.08-10.15.43:179][617]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.08-10.15.43:179][617]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.08-10.15.43:185][617]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.04.08-10.15.43:185][617]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.04.08-10.15.43:188][617]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.04.08-10.15.43:188][617]LogInit: FAudioDevice initialized with ID 5.
+[2024.04.08-10.15.43:188][617]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonMap'.
+[2024.04.08-10.15.43:188][617]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.04.08-10.15.43:189][617]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.04.08-10.15.43:194][617]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.08-10.15.43:199][617]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.04.08-12.15.43
+[2024.04.08-10.15.43:200][617]LogWorld: Bringing up level for play took: 0.005731
+[2024.04.08-10.15.43:205][617]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2024.04.08-10.15.43:231][617]PIE: Server logged in
+[2024.04.08-10.15.43:232][617]PIE: Play in editor total start time 0,469 seconds.
+[2024.04.08-10.16.14:464][542]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.08-10.16.14:465][542]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.08-10.16.14:465][542]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.08-10.16.14:465][542]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.08-10.16.14:466][542]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.08-10.16.14:506][542]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.08-10.16.14:512][542]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.08-10.16.14:538][542]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.08-10.16.14:539][542]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.04.08-10.16.14:539][542]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.04.08-10.16.14:541][542]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.04.08-10.16.14:554][542]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2024.04.08-10.16.14:701][543]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2024.04.08-13.20.03:562][378]LogAutomationController: Ignoring very large delta of 10800.15 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.08-13.20.03:935][379]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [10802 Seconds] waiting for h/w. InstanceID=1
+[2024.04.08-13.20.04:286][379]LogHttp: Warning: 0000082A82DF3700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.04.08-13.20.04:286][379]LogHttp: Warning: 0000082A82DF3700: libcurl info message cache 0 (Too old connection (10851 seconds idle), disconnect it)
+[2024.04.08-13.20.04:286][379]LogHttp: Warning: 0000082A82DF3700: libcurl info message cache 1 (Connection 51 seems to be dead)
+[2024.04.08-13.20.04:286][379]LogHttp: Warning: 0000082A82DF3700: libcurl info message cache 2 (Closing connection)
+[2024.04.08-13.20.04:286][379]LogHttp: Warning: 0000082A82DF3700: libcurl info message cache 3 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.04.08-13.20.04:286][379]LogHttp: Warning: 0000082A82DF3700: libcurl info message cache 4 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.04.08-13.20.04:286][379]LogHttp: Warning: 0000082A82DF3700: libcurl info message cache 5 (Closing connection)
+[2024.04.08-13.20.04:287][379]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3EA6C154-44D1-2DC4-3DB8-55B56F9E96ED%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=a49b570247589bcd952468ab06ae809d%7C360f6b142f0642479f69e529fcc9840b%7Cc77df069-037d-4eb0-9c03-86200b4b3f38&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.04.08-13.20.04:288][379]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=9740
+[2024.04.08-13.20.07:481][384]LogAudioMixer: Warning: FMixerNullCallback: Large time delta between simulated audio clock and realtime [-3175ms], ThreadID=9740
+[2024.04.08-13.51.59:502][384]LogAudioMixer: Warning: FMixerNullCallback: Large time delta between simulated audio clock and realtime [-1911997ms], ThreadID=9740
+[2024.04.08-13.52.01:273][384]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{478b9353-d255-457c-8dd9-0180e37c8af8}, Name=Speakers (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=1920096.62
+[2024.04.08-13.52.01:273][384]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.04.08-13.52.01:299][384]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.04.08-13.52.01:309][385]LogAutomationController: Ignoring very large delta of 1918.82 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.08-13.52.01:617][386]LogHttp: Warning: 0000082A82DF7800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.04.08-13.52.01:617][386]LogHttp: Warning: 0000082A82DF7800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.04.08-13.52.01:617][386]LogHttp: Warning: 0000082A82DF7800: libcurl info message cache 1 (Closing connection)
+[2024.04.08-13.52.01:617][386]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3EA6C154-44D1-2DC4-3DB8-55B56F9E96ED%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=a49b570247589bcd952468ab06ae809d%7C360f6b142f0642479f69e529fcc9840b%7Cc77df069-037d-4eb0-9c03-86200b4b3f38&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.04.08-13.53.09:182][619]LogHttp: Warning: 0000082A82DFCD00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.04.08-13.53.09:183][619]LogHttp: Warning: 0000082A82DFCD00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.04.08-13.53.09:183][619]LogHttp: Warning: 0000082A82DFCD00: libcurl info message cache 1 (Closing connection)
+[2024.04.08-13.53.09:183][619]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3EA6C154-44D1-2DC4-3DB8-55B56F9E96ED%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=a49b570247589bcd952468ab06ae809d%7C360f6b142f0642479f69e529fcc9840b%7Cc77df069-037d-4eb0-9c03-86200b4b3f38&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.04.08-13.54.08:727][948]LogHttp: Warning: 0000082A82DF4600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.04.08-13.54.08:727][948]LogHttp: Warning: 0000082A82DF4600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.04.08-13.54.08:727][948]LogHttp: Warning: 0000082A82DF4600: libcurl info message cache 1 (Closing connection)
+[2024.04.08-13.54.08:727][948]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3EA6C154-44D1-2DC4-3DB8-55B56F9E96ED%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=a49b570247589bcd952468ab06ae809d%7C360f6b142f0642479f69e529fcc9840b%7Cc77df069-037d-4eb0-9c03-86200b4b3f38&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.04.08-15.29.05:560][313]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [5684 Seconds] waiting for h/w. InstanceID=1
+[2024.04.08-15.29.06:240][313]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=9740
+[2024.04.08-15.29.06:248][313]LogAutomationController: Ignoring very large delta of 5682.01 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.08-15.29.06:579][315]LogHttp: Warning: 0000082A82DF0500: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.04.08-15.29.06:579][315]LogHttp: Warning: 0000082A82DF0500: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.04.08-15.29.06:579][315]LogHttp: Warning: 0000082A82DF0500: libcurl info message cache 1 (Closing connection)
+[2024.04.08-15.29.06:579][315]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3EA6C154-44D1-2DC4-3DB8-55B56F9E96ED%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=a49b570247589bcd952468ab06ae809d%7C360f6b142f0642479f69e529fcc9840b%7Cc77df069-037d-4eb0-9c03-86200b4b3f38&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.04.08-15.29.07:575][317]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{478b9353-d255-457c-8dd9-0180e37c8af8}, Name=Speakers (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=1076.76
+[2024.04.08-15.29.07:575][317]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.04.08-15.29.07:578][317]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.04.08-15.29.43:875][262]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.08-15.29.44:105][262]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Animation/Reload_Rifle_Hip
+[2024.04.08-15.29.44:107][262]LogSavePackage: Moving '../../../../../../Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/Task 4 - Reload animation/MyProject/Saved/Reload_Rifle_HipB1B51FCD48E8208DC912468D6423ADF4.tmp' to '../../../../../../Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/Task 4 - Reload animation/MyProject/Content/ThirdPerson/Animation/Reload_Rifle_Hip.uasset'
+[2024.04.08-15.29.44:129][262]LogFileHelpers: InternalPromptForCheckoutAndSave took 254 ms (total: 7.78 sec)
+[2024.04.08-15.29.44:134][262]AssetCheck: New page: Asset Save: Reload_Rifle_Hip
+[2024.04.08-15.29.44:134][262]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/ThirdPerson/Animation/Reload_Rifle_Hip.Reload_Rifle_Hip
+[2024.04.08-15.29.47:801][309]LogScript: Warning: Accessed None trying to read property MyThirdPersonCharacter
+	ABP_MyThirdPersonCharacter_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MyThirdPersonCharacter_C_194
+	Function /Game/ThirdPerson/Animation/ABP_MyThirdPersonCharacter.ABP_MyThirdPersonCharacter_C:ExecuteUbergraph_ABP_MyThirdPersonCharacter:050F
+[2024.04.08-15.30.08:757][567]LogHttp: Warning: 0000082A82A1BE00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.04.08-15.30.08:758][567]LogHttp: Warning: 0000082A82A1BE00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.04.08-15.30.08:758][567]LogHttp: Warning: 0000082A82A1BE00: libcurl info message cache 1 (Closing connection)
+[2024.04.08-15.30.08:758][567]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3EA6C154-44D1-2DC4-3DB8-55B56F9E96ED%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=a49b570247589bcd952468ab06ae809d%7C360f6b142f0642479f69e529fcc9840b%7Cc77df069-037d-4eb0-9c03-86200b4b3f38&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.04.08-15.30.15:440][755]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
