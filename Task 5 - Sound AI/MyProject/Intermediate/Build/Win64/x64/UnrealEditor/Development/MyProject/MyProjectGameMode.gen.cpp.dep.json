@@ -1,17 +1,17 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\rytix\\documents\\github\\dania games\\unreal-course\\task 2 - random spawn position\\myproject\\intermediate\\build\\win64\\unrealeditor\\inc\\myproject\\uht\\myprojectgamemode.gen.cpp",
+        "Source": "c:\\users\\rytix\\documents\\github\\dania games\\unreal-course\\task 5 - sound ai\\myproject\\intermediate\\build\\win64\\unrealeditor\\inc\\myproject\\uht\\myprojectgamemode.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\rytix\\documents\\github\\dania games\\unreal-course\\task 2 - random spawn position\\myproject\\intermediate\\build\\win64\\x64\\myprojecteditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "PCH": "c:\\users\\rytix\\documents\\github\\dania games\\unreal-course\\task 5 - sound ai\\myproject\\intermediate\\build\\win64\\x64\\myprojecteditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
         "Includes": [
-            "c:\\users\\rytix\\documents\\github\\dania games\\unreal-course\\task 2 - random spawn position\\myproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\myproject\\definitions.myproject.h",
-            "c:\\users\\rytix\\documents\\github\\dania games\\unreal-course\\task 2 - random spawn position\\myproject\\source\\myproject\\myprojectgamemode.h",
+            "c:\\users\\rytix\\documents\\github\\dania games\\unreal-course\\task 5 - sound ai\\myproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\myproject\\definitions.myproject.h",
+            "c:\\users\\rytix\\documents\\github\\dania games\\unreal-course\\task 5 - sound ai\\myproject\\source\\myproject\\myprojectgamemode.h",
             "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
             "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
             "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
             "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
-            "c:\\users\\rytix\\documents\\github\\dania games\\unreal-course\\task 2 - random spawn position\\myproject\\intermediate\\build\\win64\\unrealeditor\\inc\\myproject\\uht\\myprojectgamemode.generated.h"
+            "c:\\users\\rytix\\documents\\github\\dania games\\unreal-course\\task 5 - sound ai\\myproject\\intermediate\\build\\win64\\unrealeditor\\inc\\myproject\\uht\\myprojectgamemode.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

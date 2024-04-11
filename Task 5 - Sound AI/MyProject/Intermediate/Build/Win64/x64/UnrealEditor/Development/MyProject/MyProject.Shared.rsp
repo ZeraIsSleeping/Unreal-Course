@@ -256,8 +256,8 @@
 /I "Developer\PhysicsUtilities\Public"
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\WidgetRegistration\UHT"
 /I "Developer\WidgetRegistration\Public"
-/I "C:\Users\rytix\Documents\GitHub\Dania Games\Unreal-Course\Task 2 - Random spawn position\MyProject\Intermediate\Build\Win64\UnrealEditor\Inc\MyProject\UHT"
-/I "C:\Users\rytix\Documents\GitHub\Dania Games\Unreal-Course\Task 2 - Random spawn position\MyProject\Source"
+/I "C:\Users\rytix\Documents\GitHub\Dania Games\Unreal-Course\Task 5 - Sound AI\MyProject\Intermediate\Build\Win64\UnrealEditor\Inc\MyProject\UHT"
+/I "C:\Users\rytix\Documents\GitHub\Dania Games\Unreal-Course\Task 5 - Sound AI\MyProject\Source"
 /I "..\Plugins\EnhancedInput\Intermediate\Build\Win64\UnrealEditor\Inc\EnhancedInput\UHT"
 /I "..\Plugins\EnhancedInput\Source\EnhancedInput\Public"
 /external:W0

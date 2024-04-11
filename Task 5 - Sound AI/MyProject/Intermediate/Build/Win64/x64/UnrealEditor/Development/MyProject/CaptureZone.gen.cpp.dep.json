@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\rytix\\documents\\github\\dania games\\unreal-course\\task 5 - sound ai\\myproject\\intermediate\\build\\win64\\unrealeditor\\inc\\myproject\\uht\\capturezone.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\rytix\\documents\\github\\dania games\\unreal-course\\task 5 - sound ai\\myproject\\intermediate\\build\\win64\\x64\\myprojecteditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\rytix\\documents\\github\\dania games\\unreal-course\\task 5 - sound ai\\myproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\myproject\\definitions.myproject.h",
+            "c:\\users\\rytix\\documents\\github\\dania games\\unreal-course\\task 5 - sound ai\\myproject\\source\\myproject\\capturezone.h",
+            "c:\\users\\rytix\\documents\\github\\dania games\\unreal-course\\task 5 - sound ai\\myproject\\intermediate\\build\\win64\\unrealeditor\\inc\\myproject\\uht\\capturezone.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

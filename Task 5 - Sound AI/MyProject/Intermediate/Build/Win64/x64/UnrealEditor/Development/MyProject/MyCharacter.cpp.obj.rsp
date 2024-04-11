@@ -1,11 +1,11 @@
-"C:\Users\rytix\Documents\GitHub\Dania Games\Unreal-Course\Task 2 - Random spawn position\MyProject\Source\MyProject\MyCharacter.cpp"
-/FI"C:\Users\rytix\Documents\GitHub\Dania Games\Unreal-Course\Task 2 - Random spawn position\MyProject\Intermediate\Build\Win64\x64\MyProjectEditor\Development\Engine\SharedPCH.Engine.Cpp20.h"
-/FI"C:\Users\rytix\Documents\GitHub\Dania Games\Unreal-Course\Task 2 - Random spawn position\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\Definitions.MyProject.h"
-/Yu"C:\Users\rytix\Documents\GitHub\Dania Games\Unreal-Course\Task 2 - Random spawn position\MyProject\Intermediate\Build\Win64\x64\MyProjectEditor\Development\Engine\SharedPCH.Engine.Cpp20.h"
-/Fp"C:\Users\rytix\Documents\GitHub\Dania Games\Unreal-Course\Task 2 - Random spawn position\MyProject\Intermediate\Build\Win64\x64\MyProjectEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.pch"
-/Fo"C:\Users\rytix\Documents\GitHub\Dania Games\Unreal-Course\Task 2 - Random spawn position\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\MyCharacter.cpp.obj"
-/sourceDependencies "C:\Users\rytix\Documents\GitHub\Dania Games\Unreal-Course\Task 2 - Random spawn position\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\MyCharacter.cpp.dep.json"
-@"C:\Users\rytix\Documents\GitHub\Dania Games\Unreal-Course\Task 2 - Random spawn position\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\MyProject.Shared.rsp"
+"C:\Users\rytix\Documents\GitHub\Dania Games\Unreal-Course\Task 5 - Sound AI\MyProject\Source\MyProject\MyCharacter.cpp"
+/FI"C:\Users\rytix\Documents\GitHub\Dania Games\Unreal-Course\Task 5 - Sound AI\MyProject\Intermediate\Build\Win64\x64\MyProjectEditor\Development\Engine\SharedPCH.Engine.Cpp20.h"
+/FI"C:\Users\rytix\Documents\GitHub\Dania Games\Unreal-Course\Task 5 - Sound AI\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\Definitions.MyProject.h"
+/Yu"C:\Users\rytix\Documents\GitHub\Dania Games\Unreal-Course\Task 5 - Sound AI\MyProject\Intermediate\Build\Win64\x64\MyProjectEditor\Development\Engine\SharedPCH.Engine.Cpp20.h"
+/Fp"C:\Users\rytix\Documents\GitHub\Dania Games\Unreal-Course\Task 5 - Sound AI\MyProject\Intermediate\Build\Win64\x64\MyProjectEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.pch"
+/Fo"C:\Users\rytix\Documents\GitHub\Dania Games\Unreal-Course\Task 5 - Sound AI\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\MyCharacter.cpp.obj"
+/sourceDependencies "C:\Users\rytix\Documents\GitHub\Dania Games\Unreal-Course\Task 5 - Sound AI\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\MyCharacter.cpp.dep.json"
+@"C:\Users\rytix\Documents\GitHub\Dania Games\Unreal-Course\Task 5 - Sound AI\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\MyProject.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi
