@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\rytix\\documents\\github\\dania games\\unreal-course\\task 7 - capture bar and stamina bar\\myproject\\intermediate\\build\\win64\\unrealeditor\\inc\\myproject\\uht\\lightswitch.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\rytix\\documents\\github\\dania games\\unreal-course\\task 7 - capture bar and stamina bar\\myproject\\intermediate\\build\\win64\\x64\\myprojecteditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\rytix\\documents\\github\\dania games\\unreal-course\\task 7 - capture bar and stamina bar\\myproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\myproject\\definitions.myproject.h",
+            "c:\\users\\rytix\\documents\\github\\dania games\\unreal-course\\task 7 - capture bar and stamina bar\\myproject\\source\\myproject\\lightswitch.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\components\\boxcomponent.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\boxcomponent.generated.h",
+            "c:\\users\\rytix\\documents\\github\\dania games\\unreal-course\\task 7 - capture bar and stamina bar\\myproject\\source\\myproject\\useableinterface.h",
+            "c:\\users\\rytix\\documents\\github\\dania games\\unreal-course\\task 7 - capture bar and stamina bar\\myproject\\intermediate\\build\\win64\\unrealeditor\\inc\\myproject\\uht\\useableinterface.generated.h",
+            "c:\\users\\rytix\\documents\\github\\dania games\\unreal-course\\task 7 - capture bar and stamina bar\\myproject\\intermediate\\build\\win64\\unrealeditor\\inc\\myproject\\uht\\lightswitch.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
