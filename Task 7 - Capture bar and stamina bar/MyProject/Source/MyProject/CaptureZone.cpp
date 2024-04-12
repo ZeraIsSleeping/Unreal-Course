@@ -67,13 +67,13 @@ void ACaptureZone::Tick(float DeltaTime)
 
 		if (flagState == EFlagState::DOWN)
 		{
-			drawnPercentage = 100 - percentage;
+			drawnPercentage = percentage;
 
 			newZPosition = FMath::Lerp(-16.0f, 26.0f, percentage / 100.0f);
 		}
 		else if (flagState == EFlagState::UP)
 		{
-			drawnPercentage = percentage;
+			drawnPercentage = 100 - percentage;
 
 			newZPosition = FMath::Lerp(26.0f, -16.0f, percentage / 100.0f);
 		}

@@ -4365,3 +4365,82 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.12-01.53.24:433][740]LogHttp: Warning: 000006E1B6E01400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
 [2024.04.12-01.53.24:433][740]LogHttp: Warning: 000006E1B6E01400: libcurl info message cache 1 (Closing connection)
 [2024.04.12-01.53.24:433][740]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B39ED56B1-4AC3-C042-78C1-BD8F44CC4CB4%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=a49b570247589bcd952468ab06ae809d%7C360f6b142f0642479f69e529fcc9840b%7Cc77df069-037d-4eb0-9c03-86200b4b3f38&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.04.12-01.53.49:737][797]BlueprintLog: New page: Compile HUD_Player
+[2024.04.12-01.53.49:783][797]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2024.04.12-01.53.52:819][921]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.12-01.53.52:827][921]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.12-01.53.52:827][921]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.04.12-01.53.52:829][921]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2 ms (total: 88 ms)
+[2024.04.12-01.53.52:829][921]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.12-01.53.52:830][921]PIE: New page: PIE session: ThirdPersonMap (12 Apr 2024, 05.53.52)
+[2024.04.12-01.53.52:830][921]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.12-01.53.52:840][921]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010919s)
+[2024.04.12-01.53.52:840][921]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.010968s)
+[2024.04.12-01.53.52:863][921]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2024.04.12-01.53.52:865][921]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.12-01.53.52:867][921]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.12-01.53.52:867][921]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.04.12-01.53.52:868][921]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.12-01.53.52:868][921]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.12-01.53.52:868][921]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.12-01.53.52:868][921]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.12-01.53.52:870][921]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.04.12-01.53.52:870][921]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 824 ms)
+[2024.04.12-01.53.52:870][921]LogPlayLevel: PIE: World Init took: (0.003664s)
+[2024.04.12-01.53.52:870][921]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2024.04.12-01.53.52:870][921]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.12-01.53.52:870][921]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.12-01.53.52:870][921]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.12-01.53.52:870][921]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.12-01.53.52:870][921]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.12-01.53.52:870][921]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.12-01.53.52:870][921]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.12-01.53.52:870][921]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.12-01.53.52:871][921]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.12-01.53.52:871][921]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.12-01.53.52:871][921]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.12-01.53.52:873][921]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.12-01.53.53:013][921]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.12-01.53.53:013][921]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.12-01.53.53:013][921]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.12-01.53.53:014][921]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.12-01.53.53:015][921]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2024.04.12-01.53.53:015][921]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2024.04.12-01.53.53:017][921]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2024.04.12-01.53.53:017][921]LogInit: FAudioDevice initialized with ID 17.
+[2024.04.12-01.53.53:017][921]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2024.04.12-01.53.53:017][921]LogAudio: Display: Audio Device (ID: 17) registered with world 'ThirdPersonMap'.
+[2024.04.12-01.53.53:017][921]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2024.04.12-01.53.53:020][921]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.12-01.53.53:025][921]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.04.12-03.53.53
+[2024.04.12-01.53.53:028][921]LogWorld: Bringing up level for play took: 0.007388
+[2024.04.12-01.53.53:031][921]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2024.04.12-01.53.53:041][921]PIE: Server logged in
+[2024.04.12-01.53.53:043][921]PIE: Play in editor total start time 0,216 seconds.
+[2024.04.12-01.53.59:068][138]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.12-01.53.59:068][138]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.12-01.53.59:069][138]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.12-01.53.59:069][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.12-01.53.59:070][138]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.12-01.53.59:103][138]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.12-01.53.59:110][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.12-01.53.59:136][138]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.12-01.53.59:137][138]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2024.04.12-01.53.59:137][138]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.04.12-01.53.59:138][138]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.04.12-01.53.59:144][138]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.12-01.53.59:149][138]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2024.04.12-01.53.59:429][139]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2024.04.12-01.54.13:302][218]Cmd: STAT FPS
+[2024.04.12-01.54.14:631][274]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2024.04.12-01.54.14:640][274]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-01.54.14:757][274]LogSavePackage: Moving output files for package: /Game/UI/HUD_Player
+[2024.04.12-01.54.14:759][274]LogSavePackage: Moving '../../../../../../Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/Task 7 - Capture bar and stamina bar/MyProject/Saved/HUD_Player248DE19D4E92B3ECD2133DA7480F335C.tmp' to '../../../../../../Users/rytix/Documents/GitHub/Dania Games/Unreal-Course/Task 7 - Capture bar and stamina bar/MyProject/Content/UI/HUD_Player.uasset'
+[2024.04.12-01.54.14:774][274]LogFileHelpers: InternalPromptForCheckoutAndSave took 132 ms (total: 5.19 sec)
+[2024.04.12-01.54.14:775][274]AssetCheck: New page: Asset Save: HUD_Player
+[2024.04.12-01.54.14:776][274]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/HUD_Player.HUD_Player
+[2024.04.12-01.54.17:321][381]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.04.12-01.54.24:349][519]LogHttp: Warning: 000006E1E445F000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.04.12-01.54.24:349][519]LogHttp: Warning: 000006E1E445F000: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.04.12-01.54.24:349][519]LogHttp: Warning: 000006E1E445F000: libcurl info message cache 1 (Closing connection)
+[2024.04.12-01.54.24:349][519]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B39ED56B1-4AC3-C042-78C1-BD8F44CC4CB4%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=a49b570247589bcd952468ab06ae809d%7C360f6b142f0642479f69e529fcc9840b%7Cc77df069-037d-4eb0-9c03-86200b4b3f38&AppEnvironment=datacollector-binary&UploadType=eteventstream
