@@ -16,6 +16,18 @@ public:
 	UPROPERTY(BlueprintReadWrite, EditAnywhere, Category = "Character | Health")
 	float health = 1;
 
+	UPROPERTY(BlueprintReadWrite, EditAnywhere, Category = "Character | Stamina")
+	float Stamina = 1;
+
+	UPROPERTY(BlueprintReadWrite, EditAnywhere, Category = "Character | Stamina")
+	bool IsSprinting = false;
+
+	float staminaRegenPercent;
+
+	float timeSinceTickSprinting;
+	float timeSinceTickNotSprinting;
+	float timeSinceTickRegen;
+
 	// Sets default values for this character's properties
 	AMyCharacter();
 

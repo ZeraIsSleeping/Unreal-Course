@@ -32,6 +32,15 @@ void EmptyLinkFunctionForGeneratedCodeMyCharacter() {}
 		static const UECodeGen_Private::FMetaDataPairParam NewProp_health_MetaData[];
 #endif
 		static const UECodeGen_Private::FFloatPropertyParams NewProp_health;
+#if WITH_METADATA
+		static const UECodeGen_Private::FMetaDataPairParam NewProp_Stamina_MetaData[];
+#endif
+		static const UECodeGen_Private::FFloatPropertyParams NewProp_Stamina;
+#if WITH_METADATA
+		static const UECodeGen_Private::FMetaDataPairParam NewProp_IsSprinting_MetaData[];
+#endif
+		static void NewProp_IsSprinting_SetBit(void* Obj);
+		static const UECodeGen_Private::FBoolPropertyParams NewProp_IsSprinting;
 		static const UECodeGen_Private::FPropertyParamsBase* const PropPointers[];
 		static const FCppClassTypeInfoStatic StaticCppClassTypeInfo;
 		static const UECodeGen_Private::FClassParams ClassParams;
@@ -55,8 +64,28 @@ void EmptyLinkFunctionForGeneratedCodeMyCharacter() {}
 	};
 #endif
 	const UECodeGen_Private::FFloatPropertyParams Z_Construct_UClass_AMyCharacter_Statics::NewProp_health = { "health", nullptr, (EPropertyFlags)0x0010000000000005, UECodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(AMyCharacter, health), METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UClass_AMyCharacter_Statics::NewProp_health_MetaData), Z_Construct_UClass_AMyCharacter_Statics::NewProp_health_MetaData) };
+#if WITH_METADATA
+	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AMyCharacter_Statics::NewProp_Stamina_MetaData[] = {
+		{ "Category", "Character | Stamina" },
+		{ "ModuleRelativePath", "MyCharacter.h" },
+	};
+#endif
+	const UECodeGen_Private::FFloatPropertyParams Z_Construct_UClass_AMyCharacter_Statics::NewProp_Stamina = { "Stamina", nullptr, (EPropertyFlags)0x0010000000000005, UECodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(AMyCharacter, Stamina), METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UClass_AMyCharacter_Statics::NewProp_Stamina_MetaData), Z_Construct_UClass_AMyCharacter_Statics::NewProp_Stamina_MetaData) };
+#if WITH_METADATA
+	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AMyCharacter_Statics::NewProp_IsSprinting_MetaData[] = {
+		{ "Category", "Character | Stamina" },
+		{ "ModuleRelativePath", "MyCharacter.h" },
+	};
+#endif
+	void Z_Construct_UClass_AMyCharacter_Statics::NewProp_IsSprinting_SetBit(void* Obj)
+	{
+		((AMyCharacter*)Obj)->IsSprinting = 1;
+	}
+	const UECodeGen_Private::FBoolPropertyParams Z_Construct_UClass_AMyCharacter_Statics::NewProp_IsSprinting = { "IsSprinting", nullptr, (EPropertyFlags)0x0010000000000005, UECodeGen_Private::EPropertyGenFlags::Bool | UECodeGen_Private::EPropertyGenFlags::NativeBool, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, sizeof(bool), sizeof(AMyCharacter), &Z_Construct_UClass_AMyCharacter_Statics::NewProp_IsSprinting_SetBit, METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UClass_AMyCharacter_Statics::NewProp_IsSprinting_MetaData), Z_Construct_UClass_AMyCharacter_Statics::NewProp_IsSprinting_MetaData) };
 	const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_AMyCharacter_Statics::PropPointers[] = {
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AMyCharacter_Statics::NewProp_health,
+		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AMyCharacter_Statics::NewProp_Stamina,
+		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AMyCharacter_Statics::NewProp_IsSprinting,
 	};
 	const FCppClassTypeInfoStatic Z_Construct_UClass_AMyCharacter_Statics::StaticCppClassTypeInfo = {
 		TCppClassTypeTraits<AMyCharacter>::IsAbstract,
@@ -96,9 +125,9 @@ void EmptyLinkFunctionForGeneratedCodeMyCharacter() {}
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
 	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_rytix_Documents_GitHub_Dania_Games_Unreal_Course_Task_7___Capture_bar_and_stamina_bar_MyProject_Source_MyProject_MyCharacter_h_Statics::ClassInfo[] = {
-		{ Z_Construct_UClass_AMyCharacter, AMyCharacter::StaticClass, TEXT("AMyCharacter"), &Z_Registration_Info_UClass_AMyCharacter, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AMyCharacter), 3544614301U) },
+		{ Z_Construct_UClass_AMyCharacter, AMyCharacter::StaticClass, TEXT("AMyCharacter"), &Z_Registration_Info_UClass_AMyCharacter, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AMyCharacter), 4153123852U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_rytix_Documents_GitHub_Dania_Games_Unreal_Course_Task_7___Capture_bar_and_stamina_bar_MyProject_Source_MyProject_MyCharacter_h_2662568485(TEXT("/Script/MyProject"),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_rytix_Documents_GitHub_Dania_Games_Unreal_Course_Task_7___Capture_bar_and_stamina_bar_MyProject_Source_MyProject_MyCharacter_h_2769556186(TEXT("/Script/MyProject"),
 		Z_CompiledInDeferFile_FID_Users_rytix_Documents_GitHub_Dania_Games_Unreal_Course_Task_7___Capture_bar_and_stamina_bar_MyProject_Source_MyProject_MyCharacter_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_rytix_Documents_GitHub_Dania_Games_Unreal_Course_Task_7___Capture_bar_and_stamina_bar_MyProject_Source_MyProject_MyCharacter_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);
